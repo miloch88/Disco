@@ -36,7 +36,6 @@ div:nth-child(5){
     animation-delay: 1.6s;
 }
 div:nth-child(6){
-    animation-delay: 5s;
     animation: disco 6s ease infinite reverse;
 }
 
